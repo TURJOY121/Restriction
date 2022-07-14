@@ -1,0 +1,26 @@
+.res{
+    background-color: rgba(255, 0, 13, 0.337);
+    border: dashed red 10px;
+    
+}
+.tittle{
+    padding-left: 10px;
+}
+.content{
+    padding-left: 30px;
+    width: 1000px;
+
+}
+.tittle:hover{
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+}
+strong{
+    padding-left: 20px;
+}
+.content:hover{
+    text-transform: uppercase;
+}
+.dis{
+    width: max-content;
+}
